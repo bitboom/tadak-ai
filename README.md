@@ -38,6 +38,7 @@ python3 -m http.server 4173
 실제 화면 캡처만 사용합니다. 주요 파일은 `assets/screenshots/`에 있습니다.
 
 - `apple-intelligence-siri-settings.png`
+- `tadak-main-screen.png`
 - `ios-tadak-settings.png`
 - `ios-tadak-keyboards-korean-on.png`
 - `tadak-ai-settings.png`
