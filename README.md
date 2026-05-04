@@ -30,15 +30,15 @@ python3 -m http.server 4173
 - Tadak AI는 현재 번역 기능만 설명합니다.
 - Apple Intelligence 조건은 Apple 공식 문서를 기준으로 정리했습니다.
 - Tadak은 자체 AI 서버로 번역 요청을 보내지 않는다는 설명과 함께, Apple Intelligence가 복잡한 요청에 Private Cloud Compute를 사용할 수 있음을 같이 명시했습니다.
+- 키보드 설치 안내는 `설정 > 타닥 > 키보드` 경로를 기준으로 합니다.
 
 ## 스크린샷
 
 실제 화면 캡처만 사용합니다. 주요 파일은 `assets/screenshots/`에 있습니다.
 
 - `apple-intelligence-siri-settings.png`
-- `ios-keyboard-settings.png`
-- `ios-keyboards-list.png`
-- `ios-full-access.png`
+- `ios-tadak-settings.png`
+- `ios-tadak-keyboards-korean-on.png`
 - `tadak-ai-settings.png`
 - `tadak-ai-language-menu.png`
 - `tadak-ai-key-ready.png`
