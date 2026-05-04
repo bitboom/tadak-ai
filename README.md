@@ -26,7 +26,8 @@ python3 -m http.server 4173
 ## 문서 기준
 
 - 모든 본문, 이미지 대체 텍스트, 설명 문구는 한국어 사용자를 기준으로 작성했습니다.
-- 스크린샷은 시스템 언어와 Siri 언어를 한국어로 맞춘 iOS 시뮬레이터에서 촬영했습니다.
+- 스크린샷은 시스템 언어와 Siri 언어를 한국어로 맞춘 상태를 기준으로 합니다.
+- Apple Intelligence는 실제 사용 환경에서 토글이 켜져 있어야 Tadak AI를 사용할 수 있다고 안내합니다.
 - Tadak AI는 현재 번역 기능만 설명합니다.
 - Apple Intelligence 조건은 Apple 공식 문서를 기준으로 정리했습니다.
 - Tadak은 자체 AI 서버로 번역 요청을 보내지 않는다는 설명과 함께, Apple Intelligence가 복잡한 요청에 Private Cloud Compute를 사용할 수 있음을 같이 명시했습니다.
